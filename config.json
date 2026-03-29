@@ -1,0 +1,11 @@
+{
+    "servers": 1,
+    "capacity": 5,
+    "arrival_time_min": 2.0,
+    "arrival_time_max": 5.0,
+    "service_time_min": 3.0,
+    "service_time_max": 5.0,
+    "random_number_limit": 100000,
+    "first_arrival_time": 2.0,
+    "rng_seed": 7
+}
